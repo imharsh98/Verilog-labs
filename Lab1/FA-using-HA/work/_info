@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder
+vfull_adder
+Z0 !s110 1654966008
+!i10b 1
+!s100 @YN0g0^E:k5FjRH_Wf0;F0
+Ikg@d74lBJ_]=CR@;z<AkI3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA
+w1654965442
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1654966008.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfull_adder_tb
+!s110 1654966009
+!i10b 1
+!s100 l5nFP1>a46ESi920Gi_j=2
+IWSkz]DfcjLfcineHc9I<l2
+R1
+R2
+w1654964655
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1654966009.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/full_adder_tb.v|
+!i113 1
+R5
+R6
+vhalf_adder
+R0
+!i10b 1
+!s100 _>7U48SVIl=6m9<:7hh291
+IaUiTPd30?MCWQ0:ZY6MH31
+R1
+R2
+w1654882660
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/half_adder.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/half_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA/half_adder.v|
+!i113 1
+R5
+R6

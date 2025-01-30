@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vsiso
+!s110 1656268266
+!i10b 1
+!s100 Io0GWa<PIoM5>P]I1lHoM1
+I?:jII9P@H>bL<kBCV;MP33
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab4/siso
+w1656268258
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656268266.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vsiso_tb
+!s110 1656268789
+!i10b 1
+!s100 F;dT05lV^>=Q]LN0L>7N_3
+I3zDnDH01bmGZkl`=kEg`n0
+R0
+R1
+w1656268710
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656268789.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/siso/siso_tb.v|
+!i113 1
+R3
+R4

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vbi_buff
+!s110 1655486605
+!i10b 1
+!s100 z]FFDCTzmO4K<MEH3=a6B1
+IiR5GaZ]`b4FcOf]iCj3BF2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer
+w1655485844
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655486605.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vbi_buff_tb
+!s110 1655486611
+!i10b 1
+!s100 hTYnJ8JzgBZZEhJ8>FOaf0
+IQKl_Eb^Rh^d0>:idTVR7>2
+R0
+R1
+w1655486293
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655486611.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/bidirectional-buffer/bi_buff_tb.v|
+!i113 1
+R3
+R4

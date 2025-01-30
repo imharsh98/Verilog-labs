@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8
+vpriority_encoder8to3
+!s110 1655842970
+!i10b 1
+!s100 bMY^=jk8eGX2Kh;i::[Tc3
+InDZmVk3nj[1CizZFZP;oo2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder
+w1655841170
+8F:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655842969.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vpriority_encoder8to3_tb
+!s110 1655842989
+!i10b 1
+!s100 9EA=HnziC3AEi5W[45fmk3
+Id`_H@CZ[8eWMY:4N?DBo>1
+R0
+R1
+w1655842917
+8F:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655842989.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab3/priority-encoder/priority_encoder8to3_tb.v|
+!i113 1
+R3
+R4

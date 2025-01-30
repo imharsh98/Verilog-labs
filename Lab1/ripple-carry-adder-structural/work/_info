@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vfull_adder
+Z0 !s110 1655404219
+!i10b 1
+!s100 ]A6^CF23chaDPaSQFjGBX0
+IeMeX4eHi6GH;Cf=8eGc@Q2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural
+w1654963713
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/full_adder.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/full_adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655404219.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/full_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vripple_adder4bit
+R0
+!i10b 1
+!s100 Y0>l18hVVFA=_1oMZZ<Li3
+IZQz09YTWgOQbdQ1biE4490
+R1
+R2
+w1655236502
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/ripple_adder4bit.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/ripple_adder4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/ripple_adder4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/ripple-carry-adder-structural/ripple_adder4bit.v|
+!i113 1
+R5
+R6
+vripple_adder4bit_tb
+!s110 1655404294
+!i10b 1
+!s100 f_e[nMG>n06ziAFiW11;Q2
+I`Ibf:XWKQLDJ2>6D@f:F73
+R1
+R2
+w1655404287
+8F:\maven-softwares\Labs\Verilog-labs\Lab1\ripple-carry-adder-structural\ripple_adder4bit_tb.v
+FF:\maven-softwares\Labs\Verilog-labs\Lab1\ripple-carry-adder-structural\ripple_adder4bit_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655404294.000000
+!s107 F:\maven-softwares\Labs\Verilog-labs\Lab1\ripple-carry-adder-structural\ripple_adder4bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:\maven-softwares\Labs\Verilog-labs\Lab1\ripple-carry-adder-structural\ripple_adder4bit_tb.v|
+!i113 1
+R5
+R6

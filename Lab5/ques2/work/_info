@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab5/ques1
+vasync_dualRam
+!s110 1656698128
+!i10b 1
+!s100 lU2z@YgJJ0d:@_C1g?S4i2
+I6Nm^L?f76@`[Dn[8`>M]Z0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab5/ques2
+w1656697702
+8F:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656698128.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+nasync_dual@ram
+vasync_dualRam_tb
+!s110 1656698124
+!i10b 1
+!s100 7DIVjDhWa7o1M4?gGSh6>1
+IQ45kNlA6jKS^404P`z;T;2
+R0
+R1
+w1656697915
+8F:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656698124.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab5/ques2/async_dualRam_tb.v|
+!i113 1
+R3
+R4
+nasync_dual@ram_tb

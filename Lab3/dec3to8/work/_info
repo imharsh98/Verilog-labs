@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vdec3to8
+!s110 1655841685
+!i10b 1
+!s100 ^ZXE>VQSSTedojS1oDZGd1
+Ia<PSNPcedIkKY9T:VN@F`1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8
+w1655664162
+8F:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655841685.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vdec3to8_tb
+!s110 1655841965
+!i10b 1
+!s100 7DZC@kF8feBdIjnaH0A7e2
+I;4=@K1dOYMIJ[MhZ>MoKP2
+R0
+R1
+w1655841954
+8F:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655841965.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab3/dec3to8/dec3to8_tb.v|
+!i113 1
+R3
+R4

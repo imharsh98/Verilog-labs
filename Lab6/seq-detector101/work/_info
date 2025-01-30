@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab6/vending_machine
+vseq_det
+!s110 1656946808
+!i10b 1
+!s100 Ej90e4?@lK<mj[e4]Jb`<3
+IDeJ^PIWf8<6OTWjo8_6R>1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101
+w1656946684
+8F:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det.v
+L0 4
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656946808.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vseq_det_tb
+!s110 1656946448
+!i10b 1
+!s100 41W4hSKhS<fN2eWQGO>VR0
+Il[ieoPR;c<;EDc2bHKN:h3
+R0
+R1
+w1656946440
+8F:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656946448.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab6/seq-detector101/seq_det_tb.v|
+!i113 1
+R3
+R4

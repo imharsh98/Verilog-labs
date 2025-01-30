@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder
+vfull_adder
+!s110 1654964625
+!i10b 1
+!s100 ]A6^CF23chaDPaSQFjGBX0
+I6TeG76>_Ga:6DmPKOS71b0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder
+w1654963713
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1654964625.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vfull_adder_tb
+!s110 1654964663
+!i10b 1
+!s100 l5nFP1>a46ESi920Gi_j=2
+IGkm5?Kg[j>9Dm^hNM3F7<3
+R0
+R1
+w1654964655
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1654964663.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/full_adder/full_adder_tb.v|
+!i113 1
+R3
+R4

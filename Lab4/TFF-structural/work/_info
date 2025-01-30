@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vDelayFF
+!s110 1656160239
+!i10b 1
+!s100 TD[J5Y9PX8l9MSj9;nUi23
+I_`cH9Hk<Q`8c7J4=:T4d[3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural
+w1656102055
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/DelayFF.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/DelayFF.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656160239.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/DelayFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/DelayFF.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@delay@f@f
+vtffd
+!s110 1656160973
+!i10b 1
+!s100 54Ce^d@J4<OG8Jg@n>Y]B0
+Io7eZ@mlDQeOW@3OHgJNJR1
+R0
+R1
+w1656159250
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656160973.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd.v|
+!i113 1
+R3
+R4
+vtffd_tb
+!s110 1656161021
+!i10b 1
+!s100 8>>4ZB3e8PkJo?PH]^2W43
+IcO6DJV5c8VGgO=`VZ4f[F3
+R0
+R1
+w1656160962
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656161021.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/TFF-structural/tffd_tb.v|
+!i113 1
+R3
+R4

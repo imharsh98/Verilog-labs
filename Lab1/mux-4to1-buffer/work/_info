@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab1/priority-encoder8to3-structural
+vdec_2to4
+Z0 !s110 1655410451
+!i10b 1
+!s100 oi96=_AUgaW6<3DPVL<T@3
+ImiJiH5Z>K`T3:8KJKEUeY1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer
+w1655408700
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/dec_2to4.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/dec_2to4.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655410450.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/dec_2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/dec_2to4.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vmux_buf
+R0
+!i10b 1
+!s100 Z171ZFk=:Pnl=TYSC6gOY3
+I8TFjY[9MFjA0Qe`]9CcPJ3
+R1
+R2
+w1655409386
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655410451.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf.v|
+!i113 1
+R4
+R5
+vmux_buf_tb
+!s110 1655927091
+!i10b 1
+!s100 ?6mU[4Q9ScViKVni@>cIN2
+I:jJ<b;QG:0<2<RiJbM7bD2
+R1
+R2
+w1655927064
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1655927091.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-buffer/mux_buf_tb.v|
+!i113 1
+R4
+R5

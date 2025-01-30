@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+valu
+!s110 1655575134
+!i10b 1
+!s100 Fz4RJVmd=SD;fheC20gXQ1
+IFMz8_2JSe[18>n=Fh@[LQ2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab2/ALU
+w1655573232
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655575134.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+valu_tb
+!s110 1655575343
+!i10b 1
+!s100 0`>SJ;Bn_UH^[NZdTQKhR2
+IhJ^RhHPUBPE42RhWT;1=12
+R0
+R1
+w1655575333
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655575343.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/ALU/alu_tb.v|
+!i113 1
+R3
+R4

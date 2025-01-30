@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vhalf_adder
+!s110 1654938156
+!i10b 1
+!s100 _>7U48SVIl=6m9<:7hh291
+Ij_BY7kk@:i:PUD<kbTI^K3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder
+w1654882660
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1654938155.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vhalf_adder_tb
+!s110 1654938577
+!i10b 1
+!s100 j@Pj?F<`COOeY;9doGUo;3
+I=;alLi0Kh5DcTl_LQ[Oge2
+R0
+R1
+w1654938527
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1654938576.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/half_adder/half_adder_tb.v|
+!i113 1
+R3
+R4

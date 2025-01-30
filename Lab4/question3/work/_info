@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab4/DFF
+vupcount
+!s110 1656171301
+!i10b 1
+!s100 <_=7df<DH]cQ^G8IndCM@0
+Ih@e:bf?`SSkSI=O[iWB?S0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab4/question3
+w1656170373
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656171301.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vupcount_tb
+!s110 1656171308
+!i10b 1
+!s100 UB8zG8K:C[i?19a0ncRY;3
+IPmCZ^z>W2h@Fg0NClPfUD1
+R0
+R1
+w1656170904
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656171308.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/question3/upcount_tb.v|
+!i113 1
+R3
+R4

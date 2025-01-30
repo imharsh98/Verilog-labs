@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+varith_op
+Z0 !s110 1655926285
+!i10b 1
+!s100 Zl15?ZmI@6LiazeQ9`0Pm0
+IJ8PSXE1:[=nnAf^9:1L`]1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/maven-softwares/Labs/Verilog-labs/Lab2/operators
+w1655925061
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/arith_op.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/arith_op.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1655926285.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/arith_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/arith_op.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbitwise_op
+R0
+!i10b 1
+!s100 YDA^K`8HURdzNSBQ<h4`92
+I^m=L<Q7>`AU6UQ^M<1[em2
+R1
+R2
+w1655921777
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/bitwise_op.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/bitwise_op.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z7 !s108 1655926284.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/bitwise_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/bitwise_op.v|
+!i113 1
+R5
+R6
+vlogical_op
+!s110 1655926284
+!i10b 1
+!s100 WX7jXD971OH`I^TZO3SnV0
+IO^C43eHO]?h:aUC656Dg=1
+R1
+R2
+w1655920937
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/logical_op.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/logical_op.v
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/logical_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/logical_op.v|
+!i113 1
+R5
+R6
+vother_ops
+R0
+!i10b 1
+!s100 >X@oYV<T;cDX:^aABV`^j3
+I=JhzUNLTlQWe:M>@NWZ@f0
+R1
+R2
+w1655926198
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/other_ops.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/other_ops.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/other_ops.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/other_ops.v|
+!i113 1
+R5
+R6
+vreduction_op
+R0
+!i10b 1
+!s100 aMaFLfg_:2][8nbbTck0?0
+IJ6[B38mF0nn]`LmJcVN>O2
+R1
+R2
+w1655922216
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/reduction_op.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/reduction_op.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/reduction_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/reduction_op.v|
+!i113 1
+R5
+R6
+vrelational_op
+R0
+!i10b 1
+!s100 zi<TgoHfAYFE`0alNIV000
+IU@3B5OHXI8^mZN:75FX]Z3
+R1
+R2
+w1655922912
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/relational_op.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/relational_op.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/relational_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/relational_op.v|
+!i113 1
+R5
+R6
+vshift_op
+R0
+!i10b 1
+!s100 RU?[akidJ:bmWLZVGD@gi0
+ILaZ7j56f3^f47X=]GRSS72
+R1
+R2
+w1655922885
+8F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/shift_op.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab2/operators/shift_op.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/shift_op.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab2/operators/shift_op.v|
+!i113 1
+R5
+R6

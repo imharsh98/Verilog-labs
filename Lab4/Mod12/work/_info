@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab4/question3
+vupMod12
+!s110 1656173787
+!i10b 1
+!s100 TjG@O6ej9`LHcA3DW^X[Q2
+ISOBJFFPVRTVbel?8S04<A3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12
+w1656173282
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1656173786.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+nup@mod12
+vupMod12_tb
+!s110 1656173781
+!i10b 1
+!s100 Zo9k9:]c6HOJJ>?4ngWK?2
+IM=13FYiRkG06U?_7@eo9F2
+R0
+R1
+w1656173465
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1656173781.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/Mod12/upMod12_tb.v|
+!i113 1
+R3
+R4
+nup@mod12_tb

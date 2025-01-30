@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab3/mux4to1
+vDelayFF
+!s110 1656101393
+!i10b 1
+!s100 TD[J5Y9PX8l9MSj9;nUi23
+IP>dMaKH@JAYURjoODZ`J^2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab4/DFF
+w1656101111
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1656101393.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@delay@f@f
+vDelayFF_tb
+!s110 1656101394
+!i10b 1
+!s100 OP47?2NEblmT5YaU?k@SG3
+ImdYL`_njQiGD3KHz^_^SJ0
+R0
+R1
+w1656101318
+8F:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab4/DFF/DelayFF_tb.v|
+!i113 1
+R4
+R5
+n@delay@f@f_tb

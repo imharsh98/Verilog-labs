@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/Labs/Verilog-labs/Lab1/FA-using-HA
+vdec_2to4
+!s110 1654967632
+!i10b 1
+!s100 d61T2a>dB>XJLaF>XAlWW3
+I7N^8h7jDdTI1RMXAmkdNV3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4
+w1654966538
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1654967632.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vdec_2to4_tb
+!s110 1654967939
+!i10b 1
+!s100 c`mJZm5i:eCn5jJFZo@Oz2
+ImzX1__9TPh]^C=^@^MI8G2
+R0
+R1
+w1654967910
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1654967939.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/decoder-2to4/dec_2to4_tb.v|
+!i113 1
+R3
+R4

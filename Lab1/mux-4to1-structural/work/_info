@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/maven-softwares/intelFPGA_lite/17.1
+vmux_2to1
+!s110 1655234349
+!i10b 1
+!s100 82`n<?O0S^fZl@hIWX1Uf1
+I0SOjg7EM3J@g37]abYPDW0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural
+w1655232971
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_2to1.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_2to1.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1655234349.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_2to1.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vmux_4to1
+!s110 1655489092
+!i10b 1
+!s100 Y:E:oN>Q]IK13BIhS?jST1
+IRIfFn`6kOJY@Ug3S68djA2
+R0
+R1
+w1655489024
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655489092.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1.v|
+!i113 1
+R3
+R4
+vmux_4to1_tb
+!s110 1655927819
+!i10b 1
+!s100 OalfF=k=`G3j^Kz?kR5f[1
+IDUz=kBG;5l9?J`@0o5f?82
+R0
+R1
+w1655927545
+8F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1_tb.v
+FF:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1655927818.000000
+!s107 F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/maven-softwares/Labs/Verilog-labs/Lab1/mux-4to1-structural/mux_4to1_tb.v|
+!i113 1
+R3
+R4
