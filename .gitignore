@@ -19,5 +19,7 @@
 *.nvd
 *.hif
 *.sld*
-*.txt
+*.txt*
 *.summary
+**/work/
+LabsCGU/
